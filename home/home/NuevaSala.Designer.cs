@@ -34,7 +34,7 @@
             this.txtNumSala = new System.Windows.Forms.TextBox();
             this.txtCapSala = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.cbxSala = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // label1
@@ -87,20 +87,20 @@
             this.button1.Text = "Agregar";
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // comboBox1
+            // cbxSala
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(31, 132);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(176, 21);
-            this.comboBox1.TabIndex = 3;
+            this.cbxSala.FormattingEnabled = true;
+            this.cbxSala.Location = new System.Drawing.Point(31, 132);
+            this.cbxSala.Name = "cbxSala";
+            this.cbxSala.Size = new System.Drawing.Size(176, 21);
+            this.cbxSala.TabIndex = 3;
             // 
             // NuevaSala
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(442, 208);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.cbxSala);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtCapSala);
             this.Controls.Add(this.txtNumSala);
@@ -122,6 +122,6 @@
         private System.Windows.Forms.TextBox txtNumSala;
         private System.Windows.Forms.TextBox txtCapSala;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox cbxSala;
     }
 }
