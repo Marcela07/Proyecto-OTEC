@@ -16,5 +16,10 @@ namespace home
         {
             InitializeComponent();
         }
+
+        private void NuevoAlumno_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

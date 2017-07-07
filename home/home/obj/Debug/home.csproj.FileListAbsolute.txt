@@ -9,3 +9,6 @@ C:\Users\Exequiel\Desktop\Taller.NET\ProyectoOTEC\home\home\obj\Debug\home.cspro
 C:\Users\Exequiel\Desktop\Taller.NET\ProyectoOTEC\home\home\obj\Debug\home.exe
 C:\Users\Exequiel\Desktop\Taller.NET\ProyectoOTEC\home\home\obj\Debug\home.pdb
 C:\Users\Exequiel\Desktop\Taller.NET\ProyectoOTEC\home\home\obj\Debug\home.NuevoAlumno.resources
+C:\Users\Exequiel\Desktop\Taller.NET\ProyectoOTEC\Proyecto-OTEC\home\home\bin\Debug\home.exe.config
+C:\Users\Exequiel\Desktop\Taller.NET\ProyectoOTEC\Proyecto-OTEC\home\home\obj\Debug\home.exe
+C:\Users\Exequiel\Desktop\Taller.NET\ProyectoOTEC\Proyecto-OTEC\home\home\obj\Debug\home.pdb
